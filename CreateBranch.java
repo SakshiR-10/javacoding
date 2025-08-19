@@ -4,5 +4,7 @@ public class CreateBranch {
     {
         System.out.println("Creating First Branch");
         System.out.print("Change1");
+        System.out.print("Change2");
+
     }
 }
